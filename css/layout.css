@@ -218,6 +218,7 @@ span{display:inline-block;}
 .base{height:50px; border-top:1px solid #353e4d; clear:both;}
 .base p{color:#ccc; font-size:13px;}
 .base p:nth-child(2){margin-right:20px;}
+.base p a {color: #ccc;}
 
 
 /*-----关于-----*/
