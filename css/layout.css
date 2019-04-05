@@ -24,7 +24,7 @@ span{display:inline-block;}
 .w1200{width:1200px; margin: 0 auto;}
 
 /*--------------index--------------*/
-.navbar-header img{margin:20px 160px 0 0;}
+.navbar-header img{margin:20px 160px 0 0;margin: 20px 160px 0 0;width: 180px;height: 34px;}
 .navbar-left{margin-top:20px;}
 .form-group input{width:138px; float:left;}
 .navbar .btn{width:40px; height:32px; background:#152c4e; border-radius:0; float:left;}

@@ -82,7 +82,7 @@
 		} else {
 			var qqListHtml = $.fn.Sonline.splitStr(opts);
 			$("#SonlineBox > .contentBox > .listBox").append(qqListHtml);
-			var yjfk="<div class='xv_yjfk' style='width:138px;background:#96d8f7;border-radius:5px;float:left;line-height:20px;font-size:13px;text-align: center;margin:10px;margin-bottom:0;padding:5px 0px;color:#0b3245;font-family: 微软雅黑;cursor:pointer' title='意见可以反馈给客服，我们会第一时间及时回复您'>意见反馈</div>";
+			var yjfk="<div class='xv_yjfk' style='width:138px;background:#96d8f7;border-radius:5px;float:left;line-height:20px;font-size:13px;text-align: center;margin:10px;margin-bottom:0;padding:5px 0px;color:#0b3245;font-family: 微软雅黑;cursor:pointer' title='意见可以反馈给客服，我们会第一时间及时回复您'>电话：16620788864</div>";
 			$("#SonlineBox > .contentBox > .listBox").append(yjfk);
 		}
 		if (opts.Position == "left") {
